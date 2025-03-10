@@ -8,7 +8,7 @@ redirect_from:
   - /home/
 ---
 
-I am a postdoc researcher at Weierstrass Institute, Berlin.
+I am a postdoc researcher at [Weierstrass Institute](https://www.wias-berlin.de/), Berlin.
 I obtained my Ph.D. at the University of Lyon in October 2021 under the joint supervision of Filippo Santambrogio and Andrei Sobolevski.
 My main research interests are optimal transportation theory, mathematical statistics, learning theory, convex optimization, and their interactions.
 

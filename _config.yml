@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aleksei Kroshnin personal webpage"
+title                    : "Aleksei Kroshnin"
 title_separator          : "-"
 name                     : &name "Aleksei Kroshnin"
-description              : &description "personal webpage of Aleksei Kroshnin"
+description              : &description "Aleksei (Alexey) Kroshnin's homepage"
 url                      : https://aleksei-kroshnin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aleksei-kroshnin/aleksei-kroshnin.github.io"
