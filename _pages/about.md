@@ -14,6 +14,7 @@ My main research interests are optimal transportation theory, mathematical stati
 
 # Publications
 ## Preprints
+1. Diffusion & adversarial Schrödinger bridges via iterative proportional Markovian fitting, 2025 [[arXiv]](https://arxiv.org/abs/2410.02601). With Kholkin S. et al.
 1. Bernstein-type and Bennett-type inequalities for unbounded matrix martingales, 2024 [[arXiv]](https://arxiv.org/abs/2411.07878). With A. Suvorikova
 1. Generalized bootstrap in the Bures-Wasserstein space, 2024 [[arXiv]](https://arxiv.org/abs/2111.12612). With V. Spokoiny and A. Suvorikova
 
@@ -31,4 +32,4 @@ My main research interests are optimal transportation theory, mathematical stati
 
 # Online seminar
 ### On the interactions between Statistics and Geometry
-Together with Victor-Emmanuel Brunel, Austin Stomme, and Quentin Paris, we organize monthly online seminar on Geometry and Mathematical Statistics. The aim is to promote communication between the two fields. Announcements of upcoming talks and records of the previous ones can be found on the [seminar page](https://qparis-math.github.io/seminar/).
+Together with Victor-Emmanuel Brunel, Austin Stromme, and Quentin Paris, we organize a monthly online seminar on Geometry and Mathematical Statistics. The aim is to promote communication between the two fields. Announcements of upcoming talks and records of the previous ones can be found on the [seminar page](https://qparis-math.github.io/seminar/).
